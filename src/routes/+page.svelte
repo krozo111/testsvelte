@@ -1,2 +1,2 @@
-<h1>Welcome to POFO</h1>
+<h1>Welcome to POFO v2 ya en cloudflare</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>

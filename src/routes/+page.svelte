@@ -1,2 +1,8 @@
-<h1>Welcome to POFO v2 ya en cloudflare</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main class="container">
+  <h1>First page testing May 11st!</h1>
+  <h1>Hello and welcome to my site!</h1>
+  <a href="/about">About my site</a>
+</main>
+
+<style>
+</style>

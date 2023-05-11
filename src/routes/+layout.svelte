@@ -1,5 +1,10 @@
-<h1>title</h1>
+<script>
+  import "@picocss/pico";
+</script>
 
 <main>
-  <slot />
+   <slot />
 </main>
+
+<style>
+</style>

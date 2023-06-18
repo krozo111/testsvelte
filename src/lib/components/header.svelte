@@ -1,9 +1,11 @@
 <script>
 </script>
-<main class="flex justify-between">
-
+<main >
+<div class="">
   <h1 class="h1"><span>Welcome to Latin Place</span></h1>
+</div>
 </main>
 
 <style>
+
 </style>

@@ -7,6 +7,7 @@
   import "../app.css";
   import { AppShell } from "@skeletonlabs/skeleton";
   import Header from "$lib/components/header.svelte";
+  
 </script>
 
 <AppShell>
